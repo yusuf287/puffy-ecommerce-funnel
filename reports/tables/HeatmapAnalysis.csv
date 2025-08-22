@@ -1,0 +1,22 @@
+Heatmap Observation,Behavioral Hypothesis (why users do this),Potential Impact on Add-to-Cart,Data to Validate / Measure
+Promo overload: global banner (“$750 off mattress”) + hero “15% Off” dominate taps.,Dual offers trigger coupon FOMO and trust confusion; users chase codes instead of the PDP flow.,"Negative. Attention hijack → slower time-to-ATC(common 15-20% mobile drop-off per Baymard 2025), higher exits.","Quant: Track clicks on promo banners and hero by traffic source; run A/B test with one simple offer on the page; measure view-to-add rate, scroll to CTA percent, and rage clicks.
+Qual: Use pop-up polls asking ""Was the offer clear?""; watch session videos for users looping on promos.
+"
+Hidden CTA below the fold; variants get taps but no visible next step.,Greedy fold pushes commitment cue out of sight; users customize without seeing a clear action.,"High negative. Depresses ATC, increases latency.","Quant: Measure CTA show rate (e.g., above fold), sticky add-to-cart views/clicks, time to add-to-cart, and add-to-checkout rate.
+Qual: Watch videos for scroll stops near options; do quick tests with 5 mobile users (""Find the Add to Cart button"").
+"
+"Very few hero taps; those that exist cluster mid-image (face/center), not on arrows.",Users expect to swipe/zoom; center taps = failed gesture (arrows too small/out of thumb zone).,Negative today; upside if fixed. Interactive hero deepens product conviction.,"Quant: Track swipes, zooms, and carousel moves on hero; compare view-to-add rate and time-to-add before/after changes.
+Qual: Watch videos for failed swipes; do fast user tests on if swipe/zoom feels obvious.
+"
+"Reviews, FAQs, badges (“Trial, Warranty, Free Shipping”) are hot.",Risk reversal + social proof drive pre-cart commitment on high-AOV items.,Positive if adjacent to CTA. Under-leveraged if buried/slow. Lifting add-to-cart by 20-25% if positive reviews (Contentsquare benchmark),"Quant: Track review clicks leading to add-to-cart lift; A/B test moving stars/badges next to CTA; measure page bounce rate.
+Qual: Use short surveys asking ""What convinced you?""; watch videos of users seeking trust info.
+"
+Phone/chat icons see frequent taps.,"Shoppers escalate to human reassurance (fit, delivery, returns) when PDP doesn’t answer quickly.","Mixed: Saves some conversions via chat but signals PDP gaps, increasing abandonment (10-15% mobile friction per SoftTeco).","Quant: Track chat/call clicks to purchase rate; A/B test adding quick answers above CTA; measure add-to-cart change and fewer chats.
+Qual: Review chat logs for common questions; poll after chat ""Was your question answered?""
+"
+Tabs (“Features/12 Reasons”) get clicks; long text blocks are cold.,"Mobile users skim, not read; dense copy wastes intent.",Neutral→negative today; Negative: Unread value props hurt consideration-to-add; shorten to bullets for +12% engagement (Nielsen Norman).,"Quant: Track tab views to add-to-cart rate and scroll depth; A/B test bullets/icons vs. long paragraphs.
+Qual: Do 5-second tests on what users remember from benefits; interview users on how clear it was.
+"
+Heavy promo focus may be campaign-driven.,Deal-primed visitors (coupon/affiliate) arrive looking for offers; weak/hidden CTA makes promo the only action.,Negative if they never progress; positive if promo is unified with CTA.,"Quant: Group users by traffic source; track banner-clickers' add-to-cart rate and revenue per session; A/B test custom landing pages with one promo + CTA.
+Qual: Check if ad messages match the page; poll users ""What brought you here today?""
+"

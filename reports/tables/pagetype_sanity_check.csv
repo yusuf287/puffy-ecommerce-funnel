@@ -1,0 +1,4 @@
+event_name,param.ecomm_pagetype,rows
+add_to_cart,cart,857
+begin_checkout,cart,268
+view_item,product,5664

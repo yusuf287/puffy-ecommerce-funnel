@@ -1,0 +1,2 @@
+sessions_visit,reach_view,reach_add,reach_checkout,reach_purchase_closed,reach_purchase_after_view,cr_visit_to_view,cr_view_to_add,cr_add_to_checkout,cr_checkout_to_purchase,cr_visit_to_purchase_closed,cr_visit_to_purchase_after_view,txn_count,revenue_usd,AOV_usd
+5427.0,1946.0,313.0,216.0,64.0,64.0,0.3585774829555924,0.16084275436793422,0.6900958466453674,0.2962962962962963,0.011792887414777962,0.011792887414777962,88.0,124414.0,1413.7954545454545
