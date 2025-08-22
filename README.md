@@ -8,7 +8,7 @@ It is structured to separate raw data, analysis scripts, outputs, and final deli
 ## 📊 Questions & Deliverables
 
 ### **Question 1 — E-commerce Funnel Analysis**
-- **Code**: [Python Funnel Pipeline](notebook/funnel_pipeline.ipynb) | [SQL Funnel Query](scripts/sql/funnel_closed.sql)  
+- **Code**: [Python Funnel Pipeline](notebooks/funnel_pipeline.ipynb) | [SQL Funnel Query](scripts/sql/funnel_closed.sql)  
 - **Outputs**:  
   - [Overall Funnel (CSV)](reports/tables/overall_session_funnel.csv)  
   - [Daily Funnel (CSV)](reports/tables/daily_session_funnel.csv)  
