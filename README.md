@@ -23,19 +23,19 @@ It is structured to separate raw data, analysis scripts, outputs, and final deli
 ### **Question 2 — PDP Heatmap Analysis**
 - **Inputs**: Heatmap screenshot (in `data/`)  
 - **Outputs**: [Heatmap Analysis Table](reports/tables/HeatmapAnalysis.csv)  
-- **Summary**: See **Section 2** of [Final Case Study PDF](docs/puffy_case_study.pdf#page=5)
+- **Summary**: See **Section 2** of [Final Case Study PDF](docs/puffy_case_study.pdf#page=4)
 
 ---
 
 ### **Question 3 — Exclusive Discount Popup Test**
 - **Inputs**: [Popup Results CSV](data/exclusive_discount_popup_results.csv)  
-- **Summary**: See **Section 3** of [Final Case Study PDF](docs/puffy_case_study.pdf#page=8)
+- **Summary**: See **Section 3** of [Final Case Study PDF](docs/puffy_case_study.pdf#page=6)
 
 ---
 
 ### **Question 4 — Process & AI Usage**
 - **Narrative**: Reflections on how AI was used as a copilot, paired with business judgment.  
-- **Summary**: See **Section 4** of [Final Case Study PDF](docs/puffy_case_study.pdf#page=12)
+- **Summary**: See **Section 4** of [Final Case Study PDF](docs/puffy_case_study.pdf#page=8)
 
 ---
 
