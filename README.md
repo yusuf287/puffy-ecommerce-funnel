@@ -28,9 +28,7 @@ It is structured to separate raw data, analysis scripts, outputs, and final deli
 ---
 
 ### **Question 3 — Exclusive Discount Popup Test**
-- **Inputs**: [Popup Results CSV](data/raw/exclusive_discount_popup_results.csv)  
-- **Code**: [Popup Analysis Script](scripts/python/popup_analysis.py)  
-- **Outputs**: [Popup Test Tables](reports/tables/popup_test_summary.csv)  
+- **Inputs**: [Popup Results CSV](data/Exclusive Discount Popup - Results.csv)  
 - **Summary**: See **Section 3** of [Final Case Study PDF](docs/puffy_case_study.pdf#page=8)
 
 ---
