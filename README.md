@@ -13,7 +13,9 @@ It is structured to separate raw data, analysis scripts, outputs, and final deli
   - [Overall Funnel (CSV)](reports/tables/overall_session_funnel.csv)  
   - [Daily Funnel (CSV)](reports/tables/daily_session_funnel.csv)  
   - [Channel Funnel (CSV)](reports/tables/channel_session_funnel.csv)  
-- **Figures**: [Daily Funnel Trend](reports/figures/daily_funnel.png), [Channel Funnel Performance](reports/figures/channel_funnel.png)  
+- **Figures**: [Daily Conversion Trend](reports/figures/daily_cr_visit_to_purchase.png), [Daily Funnel Counts](reports/figures/daily_funnel_counts.png), [Channel Mediums by Sessions](reports/figures/channel_medium_top_sessions.png), [Overall Session Funnel](reports/figures/overall_session_funnel_counts.png), [Engaged vs All Conversion](reports/figures/engagedVSall.png)
+
+
 - **Summary**: [Funnel Insights PDF](docs/puffy_case_study.pdf#page=1)
 
 ---
